@@ -1,0 +1,13 @@
+{
+  "name": "online-board-games",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline and online board game collection with matchmaking, SSE sync, and chat.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
